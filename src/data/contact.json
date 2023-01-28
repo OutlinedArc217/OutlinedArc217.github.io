@@ -1,0 +1,15 @@
+{
+    "title": "联系我",
+    "subtitle": "Contact",
+    "data": [{
+            "href": "mailto:z3407323905@outlook.com",
+            "key": "E-mail",
+            "value": "z3407323905@outlook.com"
+        },
+        {
+            "href": "https://t.me/OutlinedArc217",
+            "key": "Telegram",
+            "value": "@OutlinedArc217"
+        }
+    ]
+}

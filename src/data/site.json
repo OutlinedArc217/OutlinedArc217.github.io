@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "href": "https://me.syynu.net",
+            "key": "Blog",
+            "value": "Blog",
+            "color": "#2EA9DF"
+        },
+        {
+            "href": "https://space.bilibili.com/379413515",
+            "key": "Bilibili",
+            "value": "OutlinedArc217_",
+            "color": "#F596AA"
+        },
+        {
+            "href": "https://github.com/OutlinedArc217",
+            "key": "GitHub",
+            "value": "@OutlinedArc217",
+            "color": "#787D7B"
+        },
+        {
+            "href": "ircs://irc.libera.chat:6697",
+            "key": "IRC",
+            "value": "#Linuxba",
+            "color": "#2B90D9"
+        }
+    ]
+}

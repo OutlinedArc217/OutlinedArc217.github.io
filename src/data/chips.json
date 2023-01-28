@@ -1,0 +1,45 @@
+[{
+        "icon": "account-circle-outline",
+        "text": "INFP"
+    },
+    {
+        "icon": "thought-bubble-outline",
+        "text": "Analyze"
+    },
+    {
+        "icon": "atom",
+        "text": "atom"
+    },
+    {
+        "icon": "hexagon-multiple-outline",
+        "text": "Ingress Res"
+    },
+    {
+        "icon": "code-tags",
+        "text": "PHP"
+    },
+    {
+        "icon": "code-tags",
+        "text": "Python"
+    },
+    {
+        "icon": "code-braces",
+        "text": "Vue"
+    },
+    {
+        "icon": "code-braces",
+        "text": "JavaScript"
+    },
+    {
+        "icon": "shape-outline",
+        "text": "喵~"
+    },
+    {
+        "icon": "music-note-outline",
+        "text": "Music"
+    },
+    {
+        "icon": "source-branch",
+        "text": "Open Source"
+    }
+]

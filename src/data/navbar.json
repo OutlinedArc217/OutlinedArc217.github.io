@@ -1,0 +1,46 @@
+[
+    {
+        "text": "Home",
+        "data": null,
+        "icon": "gesture",
+        "link": "https://me.syynu.net/",
+        "color": "blue"
+    },
+    {
+        "text": "Blog",
+        "data": null,
+        "icon": "earth",
+        "link": "https://me.syynu.net/",
+        "color": "green"
+    },
+    {
+        "text": "Laboratory",
+        "data": null,
+        "icon": "hammer-wrench",
+        "link": "https://https://t.me/libstack/",
+        "color": "deep-orange"
+    },
+    {
+        "text": "Projects",
+        "data": [
+            {
+                "href": "https://github.com/FlyingSky-CN/MDr",
+                "text": "Typecho theme | MDr"
+            },
+            {
+                "href": "https://me.syynu.net",
+                "text": "OutlinedArc217's Website"
+            }
+        ],<
+        "icon": "package-variant-closed",
+        "link": null,
+        "color": "deep-purple"
+    },
+    {
+        "text": "Links",
+        "data": null,
+        "icon": "link-variant",
+        "link": "https://t.me/OutlinedArc217",
+        "color": "grey"
+    }
+]
